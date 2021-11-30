@@ -1,4 +1,4 @@
-# Human-Matting
+# Interactive-Human-Matting
 
 ## Dataset
 
